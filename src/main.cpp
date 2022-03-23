@@ -1,5 +1,5 @@
 #include <Arduino.h>
-#define LED 12
+#define LED 12 //Pin to put the led
 #define BUTTON 0
  
 int i;
